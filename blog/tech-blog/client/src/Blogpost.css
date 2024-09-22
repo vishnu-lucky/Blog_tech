@@ -1,0 +1,50 @@
+.post {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .post-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .post-author, .post-date {
+    font-size: 1.1rem;
+    text-align: center;
+    color: gray;
+    margin-bottom: 20px;
+  }
+  
+  .post-image img {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px 0;
+  }
+  
+  .post-content {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    margin-bottom: 30px;
+  }
+  
+  .post-navigation {
+    text-align: center;
+    margin-top: 40px;
+  }
+  
+  .post-navigation a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+  }
+  
+  .post-navigation a:hover {
+    text-decoration: underline;
+  }
+  
